@@ -20,8 +20,8 @@ RESUMES_DIR = Path.home() / "Documents" / "ucla" / "jobs" / "resumes"
 R = r"ucla-resume-(\d{2}-\d{2}-\d{4})\.pdf"
 RESUME_FILENAME_PATTERN = re.compile(R)
 
-# Regex pattern for finding the existing resume link in my README.md
-README_RESUME_PATTERN = re.compile(rf"\[{R}\]\({R}\)")
+# Regex pattern for finding the existing resume link in my about-me.md
+ABOUTME_RESUME_PATTERN = re.compile(rf"\[{R}\]\({R}\)")
 
 
 def get_recent_resume_path() -> Path | None:
@@ -39,15 +39,15 @@ def get_recent_resume_path() -> Path | None:
 
 
 def get_resume_link_pos(content: str) -> tuple[int, int] | None:
-    """Get the indices of the resume link in README, None if not there."""
-    match = README_RESUME_PATTERN.search(content)
+    """Get the indices of the resume link in about-me.md, None if DNE."""
+    match = ABOUTME_RESUME_PATTERN.search(content)
     if match is None:
         return None
     return (match.start(), match.end())
 
 
-def update_README() -> None:
-    """Update the README with a link to my most recent resume."""
+def update_markdown() -> None:
+    """Update the about-me file with a link to my most recent resume."""
     resume = get_recent_resume_path()
     # If for some reason I lost my resumes, do nothing
     if resume is None:
@@ -59,13 +59,13 @@ def update_README() -> None:
     print(f"Copied over {resume} to current directory.")
     filename = resume.name
 
-    # Update the link in README.md
-    with open("README.md", "rt+", encoding="utf-8") as fp:
+    # Update the link in the file
+    with open("about-me.md", "rt+", encoding="utf-8") as fp:
         content = fp.read()
         res = get_resume_link_pos(content)
         # If for some reason the profile has no resume, do nothing
         if res is None:
-            print("WARNING: Couldn't find resume link in README.md, aborted.")
+            print("WARNING: Couldn't find resume link in about-me.md, aborted.")
             return
         start, end = res
         insert_str = f"[{filename}]({filename})"
@@ -73,9 +73,9 @@ def update_README() -> None:
         fp.truncate(0)
         fp.seek(0)
         fp.write(new_content)
-        print(f"Replaced resume link in README.md with {insert_str!r}.")
+        print(f"Replaced resume link in about-me.md with {insert_str!r}.")
 
 
 print(f"Running {_filename} script...")
-update_README()
+update_markdown()
 print(f"Finished running {_filename}.")
