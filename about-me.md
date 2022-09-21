@@ -24,7 +24,7 @@ catch up. Looking for programming positions to gain real-world software engineer
 
 I guess I should also include one of these...
 
-| [ucla-resume-09-19-2022.pdf](ucla-resume-09-19-2022.pdf) |
+| [ucla-resume-09-20-2022.pdf](ucla-resume-09-20-2022.pdf) |
 | -------------------------------------------------------- |
 
 I'm just starting out, okay? While I get my sh`^H`tuff together, check out what I've made on [my GitHub](https://github.com/vinlin24)! I'm open to issues and pull requests. If you like what you see, I'm available for [contact](#📞-contact)!

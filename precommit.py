@@ -46,6 +46,19 @@ def get_resume_link_pos(content: str) -> tuple[int, int] | None:
     return (match.start(), match.end())
 
 
+def replace_resume_file(to_move: Path) -> None:
+    """Delete existing resumes and copy over the one pointed by arg."""
+    # Delete the resume file(s) in current directory, if exists
+    for path in Path.cwd().iterdir():
+        if RESUME_FILENAME_PATTERN.match(path.name):
+            path.unlink()
+            print(f"Deleted {path.name} from current directory.")
+
+    # Now copy the target file in resume sources
+    shutil.copy(to_move, to_move.name)
+    print(f"Copied over {to_move} to current directory.")
+
+
 def update_markdown() -> None:
     """Update the about-me file with a link to my most recent resume."""
     resume = get_recent_resume_path()
@@ -55,11 +68,10 @@ def update_markdown() -> None:
         return
 
     # Otherwise copy the most recent one to this repo
-    shutil.copy(resume, resume.name)
-    print(f"Copied over {resume} to current directory.")
-    filename = resume.name
+    replace_resume_file(resume)
 
     # Update the link in the file
+    filename = resume.name
     with open("about-me.md", "rt+", encoding="utf-8") as fp:
         content = fp.read()
         res = get_resume_link_pos(content)
