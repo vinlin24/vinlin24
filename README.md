@@ -1,8 +1,8 @@
-## Hello there 👋
+## Hello there
 
 <!-- General Kenobi! -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinlin24)](https://github.com/anuraghazra/github-readme-stats)
+![Vincent's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinlin24&show_icons=true&theme=dark)
 
 👉 Here's where I'd put my website, *if I had one:* https://vinlin24.github.io/
 
