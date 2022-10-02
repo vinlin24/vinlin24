@@ -39,7 +39,7 @@ I'll learn and use whatever for work, but if we're talking favorites...
 - 📝 **Editor:** Visual Studio Code
 - 😎 **Themes:** Dark+ (default dark) for color, [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons) for file icons. They're what keep me staring instead of writing.
 - ➡️ **Tabs or spaces:** Spaces because the [PEP8](https://peps.python.org/pep-0008/#tabs-or-spaces) bible says so. Don't come after me.
-- 📜 **Vim or Emacs:** Neither because I try not to be elitist. I'm a proud vscode normie.
+- 📜 **Vim or Emacs:** ~~Neither.~~ Emacs...? But probably just because I was forced to learn it over Vim.
 - 🌐 **HTTP Status:** 418 I'm a teapot!
 
 ## 📞 Contact
@@ -48,4 +48,4 @@ I'll learn and use whatever for work, but if we're talking favorites...
 - Email (Casual): soulace2425@outlook.com
 - Phone: 4242909064 (text preferred for first-times because calls seem to tag everyone as spam)
 - Discord: vinlin24#5616
-- GitHub: https://github.com/vinlin24
+- GitHub (back to profile): https://github.com/vinlin24
