@@ -19,7 +19,7 @@ I was born in the Bay Area but grew up in Shanghai, China. I'm a UCLA 3rd year u
 
 ## 🎯 Mission Statement
 
-Hobbyist coder that loves automating things and making silly programs. A little late to the CS party, but eager to 
+Hobbyist coder that loves automating things and making silly programs. A little late to the CS party, but eager to
 catch up. Looking for programming positions to gain real-world software engineering experience.
 
 I guess I should also include one of these...
@@ -35,7 +35,7 @@ I'll learn and use whatever for work, but if we're talking favorites...
 
 - 💻 **OS:** Windows
 - 💬 **Language:** Python
-- 🐚 **Shell:** PowerShell
+- 🐚 **Shell:** ~~PowerShell~~ ooh, bash and those GNU utilities looking kinda nice now
 - 📝 **Editor:** Visual Studio Code
 - 😎 **Themes:** Dark+ (default dark) for color, [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons) for file icons. They're what keep me staring instead of writing.
 - ➡️ **Tabs or spaces:** Spaces because the [PEP8](https://peps.python.org/pep-0008/#tabs-or-spaces) bible says so. Don't come after me.
@@ -46,6 +46,6 @@ I'll learn and use whatever for work, but if we're talking favorites...
 
 - Email (Professional): vinlin24@outlook.com
 - Email (Casual): soulace2425@outlook.com
-- Phone: 4242909064 (text preferred for first-times because calls seem to tag everyone as spam)
+- Phone: 4242909064 (text preferred for first contact because calls seem to tag everyone as spam)
 - Discord: vinlin24#5616
 - GitHub (back to profile): https://github.com/vinlin24
