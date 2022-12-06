@@ -9,13 +9,13 @@ If you're here for *brass tacks*:
 
 ---
 
-## 🙋 Icebreaker
 
-*(What everyone makes you say to "get to know each other better," right?)*
+## 🙋 Icebreaker
 
 My name is Vincent Lin, and my pronouns are he/him/his.
 
-I was born in the Bay Area but grew up in Shanghai, China. I'm a UCLA 3rd year undergraduate, currently a Biochemistry major specializing in Computing, but I plan to switch to Computer Science this quarter. I like games, anime, and ~~staring at colored text~~ coding (I'm a bit of a shut-in).
+I was born in the Bay Area but grew up in Shanghai, China. I'm a UCLA 3rd year undergraduate who just recently switched from Biochemistry to Computer Science. I like games, anime, and ~~staring at colored text~~ coding (I'm a bit of a shut-in).
+
 
 ## 🎯 Mission Statement
 
@@ -29,6 +29,7 @@ I guess I should also include one of these...
 
 I'm just starting out, okay? While I get my sh`^H`tuff together, check out what I've made on [my GitHub](https://github.com/vinlin24)! I'm open to issues and pull requests. If you like what you see, I'm available for [contact](#📞-contact)!
 
+
 ## ⚡Lightning Round
 
 I'll learn and use whatever for work, but if we're talking favorites...
@@ -41,6 +42,7 @@ I'll learn and use whatever for work, but if we're talking favorites...
 - ➡️ **Tabs or spaces:** Spaces because the [PEP8](https://peps.python.org/pep-0008/#tabs-or-spaces) bible says so. Don't come after me.
 - 📜 **Vim or Emacs:** ~~Neither.~~ Emacs...? But probably just because I was forced to learn it over Vim.
 - 🌐 **HTTP Status:** 418 I'm a teapot!
+
 
 ## 📞 Contact
 
