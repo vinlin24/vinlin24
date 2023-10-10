@@ -1,16 +1,21 @@
-### Hi there 👋
+# Vincent Lin
 
-<!--
-**vinlin24/vinlin24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details>
+<summary>"Hello there 👋"</summary>
 
-Here are some ideas to get you started:
+![General
+Kenobi](https://i.kym-cdn.com/photos/images/original/001/947/998/a66.jpg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</details>
+
+![Vincent's GitHub
+stats](https://github-readme-stats.vercel.app/api?username=vinlin24&show_icons=true&theme=dark)
+
+* ℹ️ Feel free to reach out to me on
+  [LinkedIn](https://www.linkedin.com/in/vinlin24/) for more about me.
+* 📦 Or stick around and explore my
+  [repositories](https://github.com/vinlin24?tab=repositories) to see what I've
+  built!
+* 🫵 And as always...
+
+// Comments save lives.
