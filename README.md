@@ -42,7 +42,7 @@ I'm currently involved with:
 * 🎬 [**CinemaBrain**](https://www.linkedin.com/company/cinemabrain), an AI
   movie review generator tool.
 
-Mah *mains*:
+<!-- Mah *mains*:
 
 * 📜 **Language:** Python
 * 🐚 **Shell:** Bash
@@ -55,7 +55,7 @@ Mah *mains*:
   come after me.
 * ⚔️ **Vim or Emacs:** ~~Neither.~~ Emacs...? But probably just because I was
   forced to learn it over Vim.
-* 🌐 **HTTP Status:** 418 I'm a teapot!
+* 🌐 **HTTP Status:** 418 I'm a teapot! -->
 
 **Currently looking for entry-level SWE positions!**
 
