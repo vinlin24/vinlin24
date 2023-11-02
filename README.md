@@ -59,6 +59,8 @@ I'm currently involved with:
 
 **Currently looking for entry-level SWE positions!**
 
+<sub>Or internships that take seniors. Please. 👉👈</sub>
+
 
 ## Projects
 
