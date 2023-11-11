@@ -57,9 +57,7 @@ I'm currently involved with:
   forced to learn it over Vim.
 * 🌐 **HTTP Status:** 418 I'm a teapot! -->
 
-**Currently looking for entry-level SWE positions!**
-
-<sub>Or internships that take seniors. Please. 👉👈</sub>
+**Currently looking for 2024 SWE roles!**
 
 
 ## Projects
