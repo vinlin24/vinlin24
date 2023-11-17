@@ -70,7 +70,7 @@ A collection of side projects I'm most proud of:
 * [**tacobot-public**](https://github.com/vinlin24/tacobot-public): A private
   Discord bot.
 * [**counters**](https://github.com/vinlin24/counters): Daily social media bio
-  updater. 👀 *See my GitHub bio? hehe.*
+  updater.
 * [**status-logger**](https://github.com/vinlin24/status-logger): Daily Discord
   custom status logger.
 * [**spotify-serialize**](https://github.com/vinlin24/spotify-serialize): Simple
