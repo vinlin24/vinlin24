@@ -10,8 +10,10 @@ It was this or a Rick Roll.
 
 </details>
 
+<!--
 ![Vincent's GitHub
 stats](https://github-readme-stats.vercel.app/api?username=vinlin24&show_icons=true&theme=dark)
+-->
 
 * 🙋‍♂️ A ~~stalker~~ secret admirer? Feel free to read a little [about
   me](#about).
