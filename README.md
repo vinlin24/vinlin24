@@ -87,14 +87,8 @@ A collection of side projects I'm most proud of:
 
 ### 📓 UCLA Coursework
 
-The classes for which I stubbornly decided to take notes or complete the
-homeworks with raw Markdown in Visual Studio Code (every lecture felt like
-TypeRacer fr):
-
 * [**cs35l-notebooks**](https://github.com/vinlin24/cs35l-notebooks): Software
   Construction. 🔥 *What I'm most known for haha.*
-* [**csm151b-notebooks**](https://github.com/vinlin24/csm151b-notebooks):
-  Computer Systems Architecture.
 * [**cs131**](https://github.com/vinlin24/cs131): Programming Languages.
 
 Other repositories from my time at UCLA:
