@@ -97,11 +97,15 @@ TypeRacer fr):
 
 Other repositories from my time at UCLA:
 
-* **[csm152a-lab4](https://github.com/vinlin24/csm152a-lab4):** FGPA Video
+* [**csm152a-lab4**](https://github.com/vinlin24/csm152a-lab4): FGPA Video
   Player (final project for Digital Design Laboratory).
 * [**upe-tutoring**](https://github.com/vinlin24/upe-tutoring): Miscellaneous
   resources from my time as Tutoring Chair for
   [UPE](https://upe.seas.ucla.edu/).
+* [**csm151b-ca1**](https://github.com/vinlin24/csm151b-ca1): Simple RISC-V CPU
+  simulator.
+* [**csm151b-ca2**](https://github.com/vinlin24/csm151b-ca2): Memory hierarchy
+  simulator with L1, victim, and L2 caches.
 
 > 🙏 All of my projects are open to issues and pull requests, but these ones
 > especially! I believe in free and open-source education material, and the last
