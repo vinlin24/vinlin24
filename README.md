@@ -10,8 +10,10 @@ It was this or a Rick Roll.
 
 </details>
 
+<!--
 ![Vincent's GitHub
 stats](https://github-readme-stats.vercel.app/api?username=vinlin24&show_icons=true&theme=dark)
+-->
 
 * 🙋‍♂️ A ~~stalker~~ secret admirer? Feel free to read a little [about
   me](#about).
@@ -70,7 +72,7 @@ A collection of side projects I'm most proud of:
 * [**tacobot-public**](https://github.com/vinlin24/tacobot-public): A private
   Discord bot.
 * [**counters**](https://github.com/vinlin24/counters): Daily social media bio
-  updater. 👀 *See my GitHub bio? hehe.*
+  updater.
 * [**status-logger**](https://github.com/vinlin24/status-logger): Daily Discord
   custom status logger.
 * [**spotify-serialize**](https://github.com/vinlin24/spotify-serialize): Simple
@@ -85,14 +87,8 @@ A collection of side projects I'm most proud of:
 
 ### 📓 UCLA Coursework
 
-The classes for which I stubbornly decided to take notes or complete the
-homeworks with raw Markdown in Visual Studio Code (every lecture felt like
-TypeRacer fr):
-
 * [**cs35l-notebooks**](https://github.com/vinlin24/cs35l-notebooks): Software
   Construction. 🔥 *What I'm most known for haha.*
-* [**csm151b-notebooks**](https://github.com/vinlin24/csm151b-notebooks):
-  Computer Systems Architecture.
 * [**cs131**](https://github.com/vinlin24/cs131): Programming Languages.
 
 Other repositories from my time at UCLA:
