@@ -34,15 +34,15 @@ doing more. A bit late to the party, but I've never been more eager to catch up.
 A coding enthusiast at heart, I love automating things and building silly
 projects.
 
-~~Your stereotypical shut-in.~~ I love anime, Star Wars, memes, and of course
-staring at colored text on my screen.
+<!-- ~~Your stereotypical shut-in.~~ I love anime, Star Wars, memes, and of course
+staring at colored text on my screen. -->
 
-I'm currently involved with:
+<!-- I'm currently involved with:
 
 * 💻 [**Upsilon Pi Epsilon at UCLA**](https://upe.seas.ucla.edu/), the Computer
   Science honor society at UCLA.
 * 🎬 [**CinemaBrain**](https://www.linkedin.com/company/cinemabrain), an AI
-  movie review generator tool.
+  movie review generator tool. -->
 
 <!-- Mah *mains*:
 
