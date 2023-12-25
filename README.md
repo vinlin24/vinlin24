@@ -75,7 +75,7 @@ A collection of side projects I'm most proud of:
   for yung kai world, the Discord server for the music artist [yung
   kai](https://linktr.ee/yungkaiboy)!
 * [**counters**](https://github.com/vinlin24/counters): Daily social media bio
-  updater.
+  updater. 👀 *See my GitHub bio? hehe*
 * [**status-logger**](https://github.com/vinlin24/status-logger): Daily Discord
   custom status logger.
 * [**spotify-serialize**](https://github.com/vinlin24/spotify-serialize): Simple
