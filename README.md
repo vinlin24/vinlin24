@@ -27,8 +27,8 @@ stats](https://github-readme-stats.vercel.app/api?username=vinlin24&show_icons=t
 
 ## About
 
-Hey there! I'm a 4th year undergraduate studying Computer Science at UCLA, but I
-didn't start that way! I was admitted as Chemistry and had been programming as a
+Hey there! I'm an undergraduate studying Computer Science at UCLA, but I didn't
+start that way! I was admitted as Chemistry and had been programming as a
 self-taught hobbyist for a few years before I finally switched to what I liked
 doing more. A bit late to the party, but I've never been more eager to catch up.
 A coding enthusiast at heart, I love automating things and building silly
