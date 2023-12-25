@@ -71,6 +71,9 @@ A collection of side projects I'm most proud of:
 
 * [**tacobot-public**](https://github.com/vinlin24/tacobot-public): A private
   Discord bot.
+* [**yungkaiworldbot**](https://github.com/vinlin24/yungkaiworldbot): Misc bot
+  for yung kai world, the Discord server for the music artist [yung
+  kai](https://linktr.ee/yungkaiboy)!
 * [**counters**](https://github.com/vinlin24/counters): Daily social media bio
   updater.
 * [**status-logger**](https://github.com/vinlin24/status-logger): Daily Discord
