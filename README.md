@@ -41,8 +41,6 @@ staring at colored text on my screen. -->
 
 * 💻 [**Upsilon Pi Epsilon at UCLA**](https://upe.seas.ucla.edu/), the Computer
   Science honor society at UCLA.
-* 🎬 [**CinemaBrain**](https://www.linkedin.com/company/cinemabrain), an AI
-  movie review generator tool. -->
 
 <!-- Mah *mains*:
 
@@ -69,20 +67,31 @@ staring at colored text on my screen. -->
 
 A collection of side projects I'm most proud of:
 
-* [**tacobot-public**](https://github.com/vinlin24/tacobot-public): A private
-  Discord bot.
-* [**yungkaiworldbot**](https://github.com/vinlin24/yungkaiworldbot): Misc bot
-  for yung kai world, the Discord server for the music artist [yung
+**Discord Bots**
+
+* [**yungkaiworldbot**](https://github.com/vinlin24/yungkaiworldbot): Moderation
+  & misc. bot for yung kai world, the Discord server for the music artist [yung
   kai](https://linktr.ee/yungkaiboy)!
+* [**tacobot-public**](https://github.com/vinlin24/tacobot-public): A private
+  Discord bot that started as a loose clone of the former [Groovy
+  bot](https://groovy.bot/).
+
+**CLI Applications**
+
 * [**counters**](https://github.com/vinlin24/counters): Daily social media bio
-  updater. 👀 *See my GitHub bio? hehe*
-* [**status-logger**](https://github.com/vinlin24/status-logger): Daily Discord
-  custom status logger.
+  updater *(See my GitHub bio? hehe)*. Now also merged with my
+  [**status-logger**](https://github.com/vinlin24/status-logger) project, a
+  script that logs my daily Discord custom status.
 * [**spotify-serialize**](https://github.com/vinlin24/spotify-serialize): Simple
-  Spotify library backup system.
+  Spotify library backup system. This is yet another one of my projects hooked
+  up to [Task Scheduler](https://en.wikipedia.org/wiki/Windows_Task_Scheduler)
+  to record the evolution of my main playlist over the past year.
 * [**strutils**](https://github.com/vinlin24/strutils): Unix-like interfaces to
-  Python string utilities.
+  Python string utilities. I was in an
+  [argparse](https://docs.python.org/3/library/argparse.html) phase 🤷‍♂️.
 * [**waifu-roller**](https://github.com/vinlin24/waifu-roller): ...don't ask.
+  Also, it's deprecated anyway because I realized I can do the same much more
+  reliably with an [AHK script](https://www.autohotkey.com/). Oops.
 
 <details>
 <summary>Expand for more! 🔽</summary>
