@@ -97,10 +97,22 @@ A collection of side projects I'm most proud of:
 <summary>Expand for more! 🔽</summary>
 
 
+### 💡 Collaborative Projects
+
+* [**Glossdoor**](https://github.com/lilyorlilypad/Glossdoor-QWERHack): our
+  submission for [QWER Hacks 2024](https://www.qwerhacks.com/), a job
+  search and rating platform specially designed for underrepresented groups by
+  making DEI information and statistics more accessible.
+* **CinemaBrain**: an AI movie review generator tool built on [Llama
+  2](https://llama.meta.com/llama2), designed to help directors and
+  screenwriters predict public movie reception based on synopsis only.
+  *(unfortunately closed source at the moment, by wish of my PM.)*
+
+
 ### 📓 UCLA Coursework
 
 * [**cs35l-notebooks**](https://github.com/vinlin24/cs35l-notebooks): Software
-  Construction. 🔥 *What I'm most known for haha.*
+  Construction. *(What I'm most known for haha.)*
 * [**cs131**](https://github.com/vinlin24/cs131): Programming Languages.
 
 Other repositories from my time at UCLA:
@@ -109,6 +121,9 @@ Other repositories from my time at UCLA:
   Player (final project for Digital Design Laboratory).
 * [**cs118-project1**](https://github.com/vinlin24/cs118-project1): Basic HTTP
   server written in C, capable of serving local files and proxying remote files.
+* **cs118-project2**: custom implementation of TCP's reliable data transfer and
+  congestion control mechanisms. *(this repository is owned by my partner and
+  not public at the moment.)*
 * [**csm151b-ca1**](https://github.com/vinlin24/csm151b-ca1): Simple RISC-V CPU
   simulator.
 * [**csm151b-ca2**](https://github.com/vinlin24/csm151b-ca2): Memory hierarchy
