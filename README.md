@@ -134,8 +134,6 @@ Other repositories from my time at UCLA:
   resources from my time as Tutoring Chair for
   [UPE](https://upe.seas.ucla.edu/).
 
-> [!NOTE]
->
 > 🙏 All of my projects are open to issues and pull requests, but these ones
 > especially! I believe in free and open-source education material, and the last
 > thing I want is spreading wrong information or bad explanations!
