@@ -20,9 +20,11 @@ stats](https://github-readme-stats.vercel.app/api?username=vinlin24&show_icons=t
 * ℹ️ You can reach out to me on
 [LinkedIn](https://www.linkedin.com/in/vinlin24/) for contact or networking.
 * 🛠️ Or stick around and explore what I've [built](#projects)!
-* 🫵 And as usual...
+* 🫵 And as usual... // Comments save lives.
 
-// Comments save lives. Happy coding!
+> [!IMPORTANT]
+>
+> **Currently looking for 2024 SWE roles!**
 
 
 ## About
@@ -57,26 +59,27 @@ staring at colored text on my screen. -->
   forced to learn it over Vim.
 * 🌐 **HTTP Status:** 418 I'm a teapot! -->
 
-**Currently looking for 2024 SWE roles!**
-
 
 ## Projects
+
+<details>
+<summary>🔽 Expand for my full curated list! 🔽</summary>
 
 
 ### ❤️ Hobby Projects
 
-A collection of side projects I'm most proud of:
 
-**Discord Bots**
+#### 🤖 Discord Bots
 
 * [**yungkaiworldbot**](https://github.com/vinlin24/yungkaiworldbot): Moderation
   & misc. bot for yung kai world, the Discord server for the music artist [yung
   kai](https://linktr.ee/yungkaiboy)!
-* [**tacobot-public**](https://github.com/vinlin24/tacobot-public): A private
-  Discord bot that started as a loose clone of the former [Groovy
+* [**tacobot-public**](https://github.com/vinlin24/tacobot-public): A bot for my
+  friend's server that started as a loose clone of the former [Groovy music
   bot](https://groovy.bot/).
 
-**CLI Applications**
+
+#### 🐚 CLI Applications
 
 * [**counters**](https://github.com/vinlin24/counters): Daily social media bio
   updater *(See my GitHub bio? hehe)*. Now also merged with my
@@ -93,8 +96,6 @@ A collection of side projects I'm most proud of:
   Also, it's deprecated anyway because I realized I can do the same much more
   reliably with an [AHK script](https://www.autohotkey.com/). Oops.
 
-<details>
-<summary>Expand for more! 🔽</summary>
 
 
 ### 💡 Collaborative Projects
@@ -102,7 +103,8 @@ A collection of side projects I'm most proud of:
 * [**Glossdoor**](https://github.com/lilyorlilypad/Glossdoor-QWERHack): our
   submission for [QWER Hacks 2024](https://www.qwerhacks.com/), a job
   search and rating platform specially designed for underrepresented groups by
-  making DEI information and statistics more accessible.
+  making DEI information and statistics more accessible. We won the **Most QWER
+  Hack** and **Most Impactful** awards!
 * **CinemaBrain**: an AI movie review generator tool built on [Llama
   2](https://llama.meta.com/llama2), designed to help directors and
   screenwriters predict public movie reception based on synopsis only.
@@ -132,6 +134,8 @@ Other repositories from my time at UCLA:
   resources from my time as Tutoring Chair for
   [UPE](https://upe.seas.ucla.edu/).
 
+> [!NOTE]
+>
 > 🙏 All of my projects are open to issues and pull requests, but these ones
 > especially! I believe in free and open-source education material, and the last
 > thing I want is spreading wrong information or bad explanations!
@@ -157,7 +161,7 @@ of them:
   (Gist)](https://gist.github.com/vinlin24/5104f224f8b58178eb72a81bc14e667a):**
   Pipe lab.
 
-This list is also available at [this
+This list has also been compiled into [this
 Gist](https://gist.github.com/vinlin24/b81bc99736890b349bb874a526c6c61f).
 
 
