@@ -123,9 +123,6 @@ Other repositories from my time at UCLA:
   Player (final project for Digital Design Laboratory).
 * [**cs118-project1**](https://github.com/vinlin24/cs118-project1): Basic HTTP
   server written in C, capable of serving local files and proxying remote files.
-* **cs118-project2**: custom implementation of TCP's reliable data transfer and
-  congestion control mechanisms. *(this repository is owned by my partner and
-  not public at the moment.)*
 * [**csm151b-ca1**](https://github.com/vinlin24/csm151b-ca1): Simple RISC-V CPU
   simulator.
 * [**csm151b-ca2**](https://github.com/vinlin24/csm151b-ca2): Memory hierarchy
