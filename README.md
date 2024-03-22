@@ -22,10 +22,6 @@ stats](https://github-readme-stats.vercel.app/api?username=vinlin24&show_icons=t
 * 🛠️ Or stick around and explore what I've [built](#projects)!
 * 🫵 And as usual... // Comments save lives.
 
-> [!IMPORTANT]
->
-> **Currently looking for 2024 SWE roles!**
-
 
 ## About
 
