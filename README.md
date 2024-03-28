@@ -123,9 +123,6 @@ Other repositories from my time at UCLA:
   simulator.
 * [**csm151b-ca2**](https://github.com/vinlin24/csm151b-ca2): Memory hierarchy
   simulator with L1, victim, and L2 caches.
-* [**upe-tutoring**](https://github.com/vinlin24/upe-tutoring): Miscellaneous
-  resources from my time as Tutoring Chair for
-  [UPE](https://upe.seas.ucla.edu/).
 
 > 🙏 All of my projects are open to issues and pull requests, but these ones
 > especially! I believe in free and open-source education material, and the last
