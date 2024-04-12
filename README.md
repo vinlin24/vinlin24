@@ -105,6 +105,10 @@ staring at colored text on my screen. -->
   2](https://llama.meta.com/llama2), designed to help directors and
   screenwriters predict public movie reception based on synopsis only.
   *(unfortunately closed source at the moment, by wish of my PM.)*
+* [**upe-discord-bot**](https://github.com/alexanderhwang02/upe-discord-bot):
+  the Discord bot to help with induction at [Upsilon Pi Epsilon (UPE) at
+  UCLA](https://upe.seas.ucla.edu/), the computer science honor society of which
+  I am an active member and officer.
 
 
 ### 📓 UCLA Coursework
