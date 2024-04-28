@@ -93,10 +93,10 @@ staring at colored text on my screen. -->
 ### 💡 Collaborative Projects
 
 * [**Glossdoor**](https://github.com/lilyorlilypad/Glossdoor-QWERHack): our
-  submission for [QWER Hacks 2024](https://www.qwerhacks.com/), a job
-  search and rating platform specially designed for underrepresented groups by
-  making DEI information and statistics more accessible. We won the **Most QWER
-  Hack** and **Most Impactful** awards!
+  submission for [QWER Hacks 2024](https://www.qwerhacks.com/), a job search and
+  rating platform specially designed for underrepresented groups by making DEI
+  information and statistics more accessible. We won the **Most QWER Hack** and
+  **Most Impactful** awards!
 * **CinemaBrain**: an AI movie review generator tool built on [Llama
   2](https://llama.meta.com/llama2), designed to help directors and
   screenwriters predict public movie reception based on synopsis only.
@@ -135,34 +135,10 @@ Also what I'm known for! I went out of my way to write programs to help develop,
 debug, and test class lab assignments across multiple Computer Science courses
 during my time at UCLA. These were shared with hundreds of students through
 Piazza, and I would like to think they've helped out at least quite a few dozen
-of them:
+of them.
 
-* [**test-shuf**](https://github.com/vinlin24/test-shuf): GNU shuf lab.
-* [**rr-test-suite**](https://github.com/vinlin24/rr-test-suite): Process
-  scheduling lab.
-* [**ext2-test-suite**](https://github.com/vinlin24/ext2-test-suite):
-  Filesystems lab.
-* [**Hash Table Tester Simulator
-  (Gist)**](https://gist.github.com/vinlin24/ed40765c704e778d96a87dea67654277):
-  Threading lab.
-* [**strace Output Filter
-  (Gist)**](https://gist.github.com/vinlin24/5104f224f8b58178eb72a81bc14e667a):
-  Pipe lab.
-* [**Unit Tester for Search Problem Implementation
-  (Gist)**](https://gist.github.com/vinlin24/e2fa0f53d65310db697a7a1b98b6beb1):
-  assignment for solving [The Simpsons' version of the river crossing
-  problem](https://simpsons.fandom.com/wiki/Gone_Maggie_Gone).
-* [**Unit Tester for Sokoban Solver
-  (Gist)**](https://gist.github.com/vinlin24/5379704763a06952d91c0af0f52ddbb3):
-  assignment for solving [Sokoban](https://en.wikipedia.org/wiki/Sokoban) and
-  coming up with a custom heuristic function to speed up A* search.
-* [**RSat Variable Assignment Decoder
-  (Gist)**](https://gist.github.com/vinlin24/06959dabb001a28dd4916856d8bab9a9):
-  assignment for converting a graph problem to a SAT problem to pass to a [SAT
-  solver](http://reasoning.cs.ucla.edu/rsat/).
-
-This list has also been compiled into [this
-Gist](https://gist.github.com/vinlin24/b81bc99736890b349bb874a526c6c61f).
+▶️ [You can view the full list of links and summaries
+here.](class_contributions.md) ◀️
 
 
 ### 🧠 Learning Exercises
