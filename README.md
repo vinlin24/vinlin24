@@ -25,31 +25,32 @@ stats](https://github-readme-stats.vercel.app/api?username=vinlin24&show_icons=t
 
 ## About
 
-Hey there! I'm an undergraduate studying Computer Science at UCLA. A coding
-enthusiast at heart, I love automating things and building silly projects.
+Hey there! I'm an undergraduate studying Computer Science at UCLA, also coming
+back for a Master's. A coding enthusiast at heart, I love automating things and
+building silly projects. I'm currently:
 
-<!-- ~~Your stereotypical shut-in.~~ I love anime, Star Wars, memes, and of course
-staring at colored text on my screen. -->
+* Involved with [**Upsilon Pi Epsilon at UCLA**](https://upe.seas.ucla.edu/),
+  the Computer Science honor society at UCLA. I am a chair on the Tutoring
+  Committee, which coordinates and hosts exam review sessions and project hacks
+  to help give back to the CS community.
+* An incoming **Intern &mdash; Software Test Engineer** at [Persistent Systems,
+  LLC](https://www.persistentsystems.com/) for Summer 2024.
 
-<!-- I'm currently involved with:
+I love anime, Star Wars, memes, and of course staring at the colored text on my
+beloved **Visual Studio Code**.
+[Dark+](https://github.com/microsoft/vscode/blob/main/extensions/theme-defaults/themes/dark_plus.json)
+&
+[vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)!
+❤️
 
-* 💻 [**Upsilon Pi Epsilon at UCLA**](https://upe.seas.ucla.edu/), the Computer
-  Science honor society at UCLA.
+My go-to programming languages are **Python** and **TypeScript**/**JavaScript**.
+I also have experience with and/or comfortable working knowledge of **shell**
+(**Bash**), **C++**, **C**, and **SQL**.
 
-<!-- Mah *mains*:
-
-* 📜 **Language:** Python
-* 🐚 **Shell:** Bash
-* 📝 **Editor:** Visual Studio Code
-* 🎨 **Themes:** Dark+ (default dark) for color,
-  [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
-  for file icons. They're what keep me staring instead of writing.
-* ➡️ **Tabs or spaces:** 4 spaces because the
-  [PEP8](https://peps.python.org/pep-0008/#tabs-or-spaces) bible says so. Don't
-  come after me.
-* ⚔️ **Vim or Emacs:** ~~Neither.~~ Emacs...? But probably just because I was
-  forced to learn it over Vim.
-* 🌐 **HTTP Status:** 418 I'm a teapot! -->
+I enjoy programming, both for myself and for others. I'm particularly fond of
+**scripting**, writing **unit tests** for class assignments, adding **CLI**s to
+anything and everything, and making **Discord bots**! Currently learning more
+about and expanding my skills in **full-stack web development**.
 
 
 ## Projects
