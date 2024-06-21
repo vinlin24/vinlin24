@@ -25,23 +25,19 @@ stats](https://github-readme-stats.vercel.app/api?username=vinlin24&show_icons=t
 
 ## About
 
-Hey there! I'm an undergraduate studying Computer Science at UCLA, also coming
-back for a Master's. A coding enthusiast at heart, I love automating things and
-building silly projects. I'm currently:
+Hey there! I'm a graduate student studying Computer Science at UCLA. A coding
+enthusiast at heart, I love automating things and building silly projects. I'm
+currently:
 
-* Involved with [**Upsilon Pi Epsilon at UCLA**](https://upe.seas.ucla.edu/),
-  the Computer Science honor society at UCLA. I am a chair on the Tutoring
+* Involved with [**Upsilon Pi Epsilon**](https://upe.seas.ucla.edu/), the
+  Computer Science honor society at UCLA. I served as a chair on the Tutoring
   Committee, which coordinates and hosts exam review sessions and project hacks
   to help give back to the CS community.
-* An incoming **Intern &mdash; Software Test Engineer** at [Persistent Systems,
+* An **Intern &mdash; Software Test Engineer** at [Persistent Systems,
   LLC](https://www.persistentsystems.com/) for Summer 2024.
 
 I love anime, Star Wars, memes, and of course staring at the colored text on my
-beloved **Visual Studio Code**.
-[Dark+](https://github.com/microsoft/vscode/blob/main/extensions/theme-defaults/themes/dark_plus.json)
-&
-[vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)!
-❤️
+beloved **Visual Studio Code** ❤️.
 
 My go-to programming languages are **Python** and **TypeScript**/**JavaScript**.
 I also have experience with and/or comfortable working knowledge of **shell**
