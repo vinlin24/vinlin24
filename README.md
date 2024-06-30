@@ -147,6 +147,10 @@ something like this from time to time, no?
   fixed size integers.
 * [**hashmap**](https://github.com/vinlin24/hashmap): Hashmap implementation in
   C.
+* [**brainfuck-exercise**](https://github.com/vinlin24/brainfuck-exercise):
+  Implementations of an interpreter for
+  [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck), intended as learning
+  exercises for picking up new programming languages.
 
 
 ### ⚙️ Configuration Backup
