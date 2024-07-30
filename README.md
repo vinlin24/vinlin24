@@ -33,15 +33,15 @@ currently:
   Computer Science honor society at UCLA. I served as a chair on the Tutoring
   Committee, which coordinates and hosts exam review sessions and project hacks
   to help give back to the CS community.
-* An **Intern &mdash; Software Test Engineer** at [Persistent Systems,
-  LLC](https://www.persistentsystems.com/) for Summer 2024.
+* An **Intern &mdash; Software Test Engineer** at [**Persistent Systems,
+  LLC**](https://www.persistentsystems.com/) for Summer 2024.
 
 I love anime, Star Wars, memes, and of course staring at the colored text on my
 beloved **Visual Studio Code** ❤️.
 
 My go-to programming languages are **Python** and **TypeScript**/**JavaScript**.
 I also have experience with and/or comfortable working knowledge of **shell**
-(**Bash**), **C++**, **C**, and **SQL**.
+(**Bash**), **C++**, **C**, **SQL**, and **Perl**.
 
 I enjoy programming, both for myself and for others. I'm particularly fond of
 **scripting**, writing **unit tests** for class assignments, adding **CLI**s to
