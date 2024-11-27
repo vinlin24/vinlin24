@@ -28,12 +28,17 @@ stats](https://github-readme-stats.vercel.app/api?username=vinlin24&show_icons=t
 Hey there! I'm a graduate student studying Computer Science at UCLA. A coding
 enthusiast at heart, I love automating things and building silly projects.
 
+I'm about to be:
+
+* A **Software Engineer, Intern** at [**Stripe**](https://stripe.com/) for
+  Summer 2025.
+
 I'm currently:
 
 * Involved with [**Upsilon Pi Epsilon**](https://upe.seas.ucla.edu/), the
-  Computer Science honor society at UCLA. I served as a chair on the Tutoring
-  Committee, which coordinates and hosts exam review sessions and project hacks
-  to help give back to the CS community.
+  Computer Science honor society at UCLA. I have served as chairs on the
+  **Tutoring** and **Induction & Membership** committees to help give back to
+  the CS community.
 
 I was previously:
 
