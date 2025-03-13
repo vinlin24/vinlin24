@@ -64,12 +64,11 @@ I also have experience with and/or comfortable working knowledge of **shell**
 
 #### 🤖 Discord Bots
 
-* [**yungkaiworldbot**](https://github.com/vinlin24/yungkaiworldbot): Moderation
-  & misc. bot for yung kai world, the Discord server for the music artist [yung
-  kai](https://linktr.ee/yungkaiboy)!
 * [**tacobot-public**](https://github.com/vinlin24/tacobot-public): A bot for my
   friend's server that started as a loose clone of the former [Groovy music
   bot](https://groovy.bot/).
+* **yungkaiworldbot**: Moderation & misc. bot for yung kai world, the Discord
+  server for the music artist [yung kai](https://linktr.ee/yungkaiboy)!
 
 
 #### 🐚 CLI Applications
