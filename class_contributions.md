@@ -258,3 +258,17 @@ them in the context of the graph coloring problem, with support for actual
 colored output:
 
 ![](assets/decode-vars-output.png)
+
+## [Averaging Performance Output](https://gist.github.com/vinlin24/1dbc11cec4c97816cf916b1c8f32bdb2)
+
+Class: **COM SCI 133: Parallel and Distributed Computing** (Spring 2025)
+
+Helper script for averaging the performance output of the provided testbed for our [GEMM](https://en.wikipedia.org/wiki/GEMM) implementations. This was useful for report-writing or just as a sanity check since performance calculations were non-deterministic.
+
+Basic usage:
+
+```sh
+python3 gemm_stats.py --help
+python3 gemm_stats.py 5
+python3 gemm_stats.py 3 -i parallel
+```

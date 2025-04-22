@@ -84,10 +84,6 @@ I also have experience with and/or comfortable working knowledge of **shell**
 * [**strutils**](https://github.com/vinlin24/strutils): Unix-like interfaces to
   Python string utilities. I was in an
   [argparse](https://docs.python.org/3/library/argparse.html) phase 🤷‍♂️.
-* [**waifu-roller**](https://github.com/vinlin24/waifu-roller): ...don't ask.
-  Also, it's deprecated anyway because I realized I can do the same much more
-  reliably with an [AHK script](https://www.autohotkey.com/). Oops.
-
 
 
 ### 💡 Collaborative Projects
