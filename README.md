@@ -157,8 +157,6 @@ something like this from time to time, no?
 I love configuration. Sometimes a bit more than actual development the
 configuration was for in the first place.
 
-* [**startup-config**](https://github.com/vinlin24/startup-config): My
-  "dotfiles" backup.
 * [**scripts**](https://github.com/vinlin24/scripts): PowerShell scripts for
   customizing Windows context menus.
 
