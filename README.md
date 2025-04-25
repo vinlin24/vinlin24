@@ -69,6 +69,10 @@ I also have experience with and/or comfortable working knowledge of **shell**
   bot](https://groovy.bot/).
 * **yungkaiworldbot**: Moderation & misc. bot for yung kai world, the Discord
   server for the music artist [yung kai](https://linktr.ee/yungkaiboy)!
+* [**upe-discord-bot**](https://github.com/vinlin24/upe-discord-bot): the
+  Discord bot to help with induction at [Upsilon Pi Epsilon (UPE) at
+  UCLA](https://upe.seas.ucla.edu/), the computer science honor society of which
+  I am an active member and officer.
 
 
 #### 🐚 CLI Applications
@@ -97,16 +101,14 @@ I also have experience with and/or comfortable working knowledge of **shell**
   2](https://llama.meta.com/llama2), designed to help directors and
   screenwriters predict public movie reception based on synopsis only.
   *(unfortunately closed source at the moment, by wish of my PM.)*
-* [**upe-discord-bot**](https://github.com/alexanderhwang02/upe-discord-bot):
-  the Discord bot to help with induction at [Upsilon Pi Epsilon (UPE) at
-  UCLA](https://upe.seas.ucla.edu/), the computer science honor society of which
-  I am an active member and officer.
 
 
 ### 📓 UCLA Coursework
 
 * [**cs35l-notebooks**](https://github.com/vinlin24/cs35l-notebooks): Software
   Construction. *(What I'm most known for haha.)*
+* [**cs143-notebooks**](https://github.com/vinlin24/cs143-notebooks): Database
+  Management Systems.
 * [**cs131**](https://github.com/vinlin24/cs131): Programming Languages.
 
 Other repositories from my time at UCLA:
