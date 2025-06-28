@@ -28,13 +28,10 @@ stats](https://github-readme-stats.vercel.app/api?username=vinlin24&show_icons=t
 Hey there! I'm a graduate student studying Computer Science at UCLA. A coding
 enthusiast at heart, I love automating things and building silly projects.
 
-I'm about to be:
+I'm currently:
 
 * A **Software Engineer, Intern** at [**Stripe**](https://stripe.com/) for
   Summer 2025.
-
-I'm currently:
-
 * Involved with [**Upsilon Pi Epsilon**](https://upe.seas.ucla.edu/), the
   Computer Science honor society at UCLA. I have served as chairs on the
   **Tutoring** and **Induction & Membership** committees to help give back to
@@ -42,6 +39,7 @@ I'm currently:
 
 I was previously:
 
+* A teaching assistant for [**CS 143: Database Management Systems** with Professor Remy Wang](https://remy.wang/cs143/index.html).
 * An **Intern &mdash; Software Test Engineer** at [**Persistent Systems,
   LLC**](https://www.persistentsystems.com/) for Summer 2024.
 
@@ -50,7 +48,7 @@ beloved **Visual Studio Code** ❤️.
 
 My go-to programming languages are **Python** and **TypeScript**/**JavaScript**.
 I also have experience with and/or comfortable working knowledge of **shell**
-(**Bash**), **C++**, **C**, **SQL**, and **Perl**.
+(**Bash**), **C++**, **C**, **SQL**, and **Ruby**.
 
 
 ## Projects
