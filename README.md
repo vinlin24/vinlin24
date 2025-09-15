@@ -30,18 +30,13 @@ enthusiast at heart, I love automating things and building silly projects.
 
 I'm currently:
 
-* A **Software Engineer, Intern** at [**Stripe**](https://stripe.com/) for
-  Summer 2025.
-* Involved with [**Upsilon Pi Epsilon**](https://upe.seas.ucla.edu/), the
-  Computer Science honor society at UCLA. I have served as chairs on the
-  **Tutoring** and **Induction & Membership** committees to help give back to
-  the CS community.
+* Involved with [**Upsilon Pi Epsilon**](https://upe.seas.ucla.edu/), the Computer Science honor society at UCLA. I have served as chairs on the **Tutoring** and **Induction & Membership** committees to help give back to the CS community.
 
 I was previously:
 
+* A **Software Engineer, Intern** at [**Stripe**](https://stripe.com/) for Summer 2025.
 * A teaching assistant for [**CS 143: Database Management Systems** with Professor Remy Wang](https://remy.wang/cs143/index.html).
-* An **Intern &mdash; Software Test Engineer** at [**Persistent Systems,
-  LLC**](https://www.persistentsystems.com/) for Summer 2024.
+* An **Intern &mdash; Software Test Engineer** at [**Persistent Systems, LLC**](https://www.persistentsystems.com/) for Summer 2024.
 
 I love anime, Star Wars, memes, and of course staring at the colored text on my
 beloved **Visual Studio Code** ❤️.
