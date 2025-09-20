@@ -36,7 +36,6 @@ I was previously:
 
 * A **Software Engineer, Intern** at [**Stripe**](https://stripe.com/) for Summer 2025.
 * A teaching assistant for [**CS 143: Database Management Systems** with Professor Remy Wang](https://remy.wang/cs143/index.html).
-* An **Intern &mdash; Software Test Engineer** at [**Persistent Systems, LLC**](https://www.persistentsystems.com/) for Summer 2024.
 
 I love anime, Star Wars, memes, and of course staring at the colored text on my
 beloved **Visual Studio Code** ❤️.
