@@ -28,18 +28,19 @@ stats](https://github-readme-stats.vercel.app/api?username=vinlin24&show_icons=t
 Hey there! I'm a graduate student studying Computer Science at UCLA. A coding
 enthusiast at heart, I love automating things and building silly projects.
 
-I'm about to be:
+I'm currently:
 
 * A **Software Engineer** at [**Stripe**](https://stripe.com/).
 
-I'm currently:
-
-* Involved with [**Upsilon Pi Epsilon**](https://upe.seas.ucla.edu/), the Computer Science honor society at UCLA. I have served as chairs on the **Tutoring** and **Induction & Membership** committees to help give back to the CS community.
-
 I was previously:
 
+* Involved with [**Upsilon Pi Epsilon**](https://upe.seas.ucla.edu/), the
+  Computer Science honor society at UCLA. I have served as chairs on the
+  **Tutoring** and **Induction & Membership** committees to help give back to
+  the CS community.
 * A **Software Engineer, Intern** at [**Stripe**](https://stripe.com/) for Summer 2025.
-* A teaching assistant for [**CS 143: Database Management Systems** with Professor Remy Wang](https://remy.wang/cs143/index.html).
+* A teaching assistant for [**CS 143: Database Management Systems** with
+  Professor Remy Wang](https://remy.wang/cs143/index.html).
 
 I love anime, Star Wars, memes, and of course staring at the colored text on my
 beloved **Visual Studio Code** ❤️.
